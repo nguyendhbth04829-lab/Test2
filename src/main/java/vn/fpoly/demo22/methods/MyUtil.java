@@ -10,7 +10,7 @@ public class MyUtil {
             if (x<1||x>1000){
                 throw new IllegalArgumentException("phan tu phai lon hon 1 va be hon 1000");
             }
-            tong += x+1;
+            tong += x;
         }
         return tong;
     }
