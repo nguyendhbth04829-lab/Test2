@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class SeleniumWebdriverTest {
-    /*
+
     WebDriver webDriver;
     @BeforeEach
     void setUp(){
@@ -47,5 +47,5 @@ public class SeleniumWebdriverTest {
         webDriver.quit();
     }
 
-     */
+
 }
